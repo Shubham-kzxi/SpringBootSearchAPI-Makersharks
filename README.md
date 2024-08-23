@@ -21,7 +21,7 @@ The API is built using Spring Boot and integrates with a MySQL database.
 - ### Installation
 1. **Clone the repository:**
 
-   git clone https://github.com/your-username/SpringBootSearchAPI-Makersharks.git
+   git clone https://github.com/Shubham-kzxi//SpringBootSearchAPI-Makersharks.git
    cd SpringBootSearchAPI-Makersharks
 
 2. **Set up the MySQL database:**
