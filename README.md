@@ -69,4 +69,9 @@ size - the number of records per page (default is 10).
 to use pagination just change the url>> http://localhost:8080/api/supplier/query?page=0&size=2
 
 
+## TODO
+--Proper exception handling
+--role based access to secure sensitive data
+
+
    
